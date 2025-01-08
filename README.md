@@ -6,6 +6,7 @@ DiscordDPI, Discord'un IP tabanlı erişim engellerini aşmak için geliştirilm
 - **"dist" klasörünün içindeki "discord_launcher.exe" dosyasını çalıştırın.**
 - Ekranda gereken bilgileri göreceksiniz.
 - CMD ekranını direkt kapatabilirsiniz, uygulama otomatik olarak çıkış yapacaktır.
+- Güncel versiyon: [1.00](https://github.com/7xyiit/DiscordDPI-Turkey/releases/tag/1.00)
 
 ## VirusTotal
 [discord_launcher.exe](https://www.virustotal.com/gui/file/870cfd12bf2a44085ef1a8f10f5bc093bd72655dde6a78e45241785cbdd85c4f)<br>
