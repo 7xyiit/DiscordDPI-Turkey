@@ -4,7 +4,7 @@ DiscordDPI, Discord'un IP tabanlı erişim engellerini aşmak için geliştirilm
 ## Kullanım
 - İndirdiğiniz zip dosyasını çıkartın.
 - **"dist" klasörünün içindeki "discord_launcher.exe" dosyasını yönetici olarak çalıştırın.**
-- Ekranda gereken bilgileri göreceksiniz.
+- CMD ekranı ve Chrome tarayıcısı açılacaktır, ardından 15-20 saniye bir şey yapmadan bekleyin ve sonrasında login atabilirsiniz.
 - CMD ekranını direkt kapatabilirsiniz, uygulama otomatik olarak çıkış yapacaktır.
 - Güncel versiyon: [1.00](https://github.com/7xyiit/DiscordDPI-Turkey/releases/tag/1.00)
 
