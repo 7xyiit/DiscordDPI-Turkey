@@ -6,7 +6,7 @@ DiscordDPI, Discord'un IP tabanlı erişim engellerini aşmak için geliştirilm
 - --port        : Proxy sunucusu port numarası (varsayılan: 8080)
 - --chunk-size  : Veri okuma/yazma boyutu (varsayılan: 8192)
 - --window-size : DPI bypass boyutu (varsayılan: 64, agresif: 32, çok agresif: 16)
-- --timeout     : Bağlantı zaman aşımı süresi (varsayılan: 30, önerilen: 15)
+- --timeout     : Bağlantı zaman aşımı süresi (varsayılan: 30)
 - --debug       : Debug modunu etkinleştir (detaylı loglar için)<br>
 <i>Gelen/Giden paketleri görmek istemiyorsanız kaldırın.</i>
 - --dns-addr    : Özel DNS sunucu adresi (varsayılan: 8.8.8.8)<br>
