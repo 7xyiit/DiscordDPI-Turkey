@@ -9,9 +9,6 @@ DiscordDPI, Discord'un IP tabanlı erişim engellerini aşmak için geliştirilm
 - --timeout     : Bağlantı zaman aşımı süresi (varsayılan: 30, önerilen: 15)
 - --debug       : Debug modunu etkinleştir (detaylı loglar için)<br>
 <i>Gelen/Giden paketleri görmek istemiyorsanız kaldırın.</i>
-- --pattern     : DPI bypass için domain pattern (örnek: ".*\.google\.com")<br>
-Birden fazla kullanılabilir: --pattern ".*\.google\.com" --pattern ".*\.youtube\.com"<br>
-Tüm domainler için: --pattern ".*"
 - --dns-addr    : Özel DNS sunucu adresi (varsayılan: 8.8.8.8)<br>
 <i>Alternatifler: 1.1.1.1 (Cloudflare)</i>
 - --dns-port    : Özel DNS sunucu portu (varsayılan: 53)
