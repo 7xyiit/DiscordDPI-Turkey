@@ -20,6 +20,7 @@ DiscordDPI, Discord'un IP tabanlı erişim engellerini aşmak için geliştirilm
 
 ## Kullanım
 - run.bat dosyasını açıp çalıştırın veya parametrelere göre düzenleyin.
+- Cloudflare WARP uygulamasından 1.1.1.1 DNS özelliğini açın.
 
 ## Sorumluluk Reddi
 **Bu program tamamen eğitim amaçlı bir projedir. Kullanımından doğabilecek sorunlardan kullanıcı sorumludur.**
